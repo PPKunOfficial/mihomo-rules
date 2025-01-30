@@ -1,4 +1,4 @@
 payload:
   - DOMAIN,aistudio.google.com
   - DOMAIN,generativelanguage.googleapis.com
-  - DomainSuffix,labs.google
+  - DOMAIN-SUFFIX,labs.google
